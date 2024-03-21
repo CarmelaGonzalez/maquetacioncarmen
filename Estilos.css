@@ -1,0 +1,87 @@
+@charset "utf-8";
+.”contenedor_principal” .”cabecera” {
+	width: 100%;
+	height: 80px;
+	background-color: #f3a8c2;
+	color: #FF009E;
+	text-align: center;
+	font-size: 30pt;
+	padding-top: 15px;
+	border-radius: 8px;
+}
+.”contenedor_principal” .”menu” {
+	width: 100%;
+	height: 40px;
+	background-color: #f6d1de;
+	color: #D100A3;
+	text-align: center;
+	font-size: 20pt;
+	border-radius: 5px;
+	margin-top: 16px;
+}
+.”contenedor_principal” .”menu_lateral” {
+	width: 40%;
+	background-color: #d8f8e1;
+	height: 300px;
+	margin-top: 6px;
+	border-radius: 5px;
+	text-align: center;
+	color: #039268;
+	float: left;
+}
+.”contenedor_principal” .”publicacion” {
+	width: 59%;
+	background-color: #b0f6f2;
+	float: right;
+	height: 301px;
+	border-radius: 5px;
+	margin: auto;
+	padding-top: 10px;
+}
+.”contenedor_principal” .”publicacion” .”ARTICULO1” {
+	width: 95%;
+	background-color: #eef6b0;
+	color: #FFA806;
+	text-align: center;
+	margin: auto;
+	border-radius: 6px;
+	height: 45px;
+}
+.”contenedor_principal” .”publicacion” .”ARTICULO2” {
+	width: 40%;
+	background-color: #eef6b0;
+	height: 219px;
+	color: #FFA806;
+	text-align: center;
+	margin-top: 15px;
+	margin-left: 19px;
+	border-radius: 5px;
+	float: left;
+}
+.”contenedor_principal” .”publicacion” .”ARTICULO3” {
+	border-radius: 5px;
+	width: 40%;
+	height: 219px;
+	background-color: #eef6b0;
+	text-align: center;
+	float: right;
+	margin-top: 15px;
+	margin-right: 19px;
+	color: #FFA806;
+}
+
+
+
+
+.”contenedor_principal” .”piede_pagina” {
+	width: 100%;
+	background-color: #c7f6d4;
+	height: 60px;
+	clear: both;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	text-align: center;
+	color: #13A23E;
+	font-size: 21px;
+}
